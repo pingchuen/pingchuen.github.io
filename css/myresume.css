@@ -26,14 +26,14 @@ p.lead {
 }
 
 .bg-primary {
-    background-color: #006d80!important;
-    background-image: url(../assets/img/food.png);
+    background-color: #010105!important;
+    background-image: url(../assets/img/gray-afloral.png);
 }
 
 .text-primary {
-    color: #006d80!important;
+    color: #01015!important;
 }
 
 a {
-    color: #006d80;
+    color: #01015;
 }

@@ -2,22 +2,38 @@ body{
 	font-family:'Noto Sans TC',sans-serif;
 }
 
-h1,h2,h3,h4,h5,h6, .h1,.h2,.h3,.h4,.h5,.h6{
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
     font-family:'Noto Sans TC',sans-serif;
+	
 }
 
-.subheading{
+.subheading {
     font-family:'Noto Sant TC', sans-serif;
-}
-.bg-primary{
-    background-color:#006d80!important;
-    background-image:url(../assets/img/food.png);
+    font-size:1.2rem;
+    font-weight:normal;
 }
 
-.text-primary{
-    color:#006d80!important;
+h1, h2, h3, h4, h5, h6, .subheading{
+    text-transform:none;
+}
+
+h1, .h1 {
+    font-size: 5rem;
+}
+
+p.lead {
+    font-size: 1.2rem;
+}
+
+.bg-primary {
+    background-color: #006d80!important;
+    background-image: url(../assets/img/food.png);
+}
+
+.text-primary {
+    color: #006d80!important;
 }
 
 a {
-    color:#006d80;
+    color: #006d80;
 }
